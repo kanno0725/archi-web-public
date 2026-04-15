@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kanno.github.io/archi-web/sitemap.xml
